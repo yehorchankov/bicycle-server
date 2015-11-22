@@ -1,0 +1,5 @@
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\BiisControllers\bin\Debug\BiisControllers.dll
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\BiisControllers\bin\Debug\BiisControllers.pdb
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\BiisControllers\obj\Debug\BiisControlls.csprojResolveAssemblyReference.cache
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\BiisControllers\obj\Debug\BiisControllers.dll
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\BiisControllers\obj\Debug\BiisControllers.pdb

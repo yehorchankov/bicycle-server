@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>BIIS Default Page</title>
+</head>
+<body>
+<h1>Bicycle internet information service introduction page</h1>
+<form action="Default.biis" method="post">
+<Biis:Label name="lbl">Hello world</Biis:Label>
+</br>
+<Biis:Button name="sbmt" onclick="PerformClick" value="Button"/>
+</form>
+</body>
+</html>

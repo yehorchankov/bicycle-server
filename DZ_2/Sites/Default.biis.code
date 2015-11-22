@@ -1,0 +1,4 @@
+protected void PerformClick(object sender, EventArgs e) {
+	lbl.Value = DateTime.Now.ToString();
+	sbmt.Value = "Yiiis";
+}

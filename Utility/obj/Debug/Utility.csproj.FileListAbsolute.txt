@@ -1,0 +1,7 @@
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\Utility\bin\Debug\Utility.dll
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\Utility\bin\Debug\Utility.pdb
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\Utility\bin\Debug\BiisControllers.dll
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\Utility\bin\Debug\BiisControllers.pdb
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\Utility\obj\Debug\Utility.dll
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 3\DZ_2\Utility\obj\Debug\Utility.pdb

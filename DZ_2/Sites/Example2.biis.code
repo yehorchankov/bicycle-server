@@ -1,0 +1,4 @@
+protected void ChangeInfo(object sender, EventArgs e) {
+	lbl.Value = tb.Value;
+	sbmt.Value = "U did it!!11";
+}

@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Another BIIS Page</title>
+</head>
+<body>
+<h1>Working with controls</h1>
+<form action="Example2.biis" method="post">
+<Biis:Label name="lbl">Hello world</Biis:Label>
+</br>
+<Biis:TextBox name="tb" id="tb1"/>
+</br>
+<Biis:Button name="sbmt" onclick="ChangeInfo" value="Button"/>
+</form>
+</body>
+</html>
